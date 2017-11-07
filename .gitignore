@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/app/build
+/captures
+zxing-android-embedded/build/
+zxing-nosupport/build/
+zxing/build/
+usbSerialForAndroid/build/
+app/app-debug.apk

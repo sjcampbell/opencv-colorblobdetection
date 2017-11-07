@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Nov 07 16:39:39 EST 2017
+2.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\13\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+7.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\16\\classes.dex
+7.set=DEX
+count=10
+0.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+8.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\15\\classes.dex
+4.set=DEX
+6.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\17\\classes.dex
+9.set=DEX
+9.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\14\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+2.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\icon.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+3.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\color_blob_detection_surface_view.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+9.base=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+4.file=C\:\\Users\\scampbell\\Development\\AceAge\\OpenCv\\color-blob-detection\\openCVSamplecolorblobdetection\\build\\intermediates\\transforms\\dexMerger\\debug\\12\\classes.dex
+8.set=DEX
+0.set=ANDROID_RESOURCE
